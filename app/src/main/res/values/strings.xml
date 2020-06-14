@@ -1,3 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">hahatestgithub</string>
 </resources>
+=======
+    <string name="app_name">紅綠燈(tcyang)</string>
+</resources>
+>>>>>>> 7ec5a5984b9aa935e7231ab9baee62a66683e5ef
